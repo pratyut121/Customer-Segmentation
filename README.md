@@ -18,3 +18,17 @@ Low Value: Customers who are less active than others, not very frequent buyer/vi
 Mid Value: In the middle of everything. Often using our platform (but not as much as our High Values), fairly frequent and generates moderate revenue.
 
 High Value: The group we don’t want to lose. High Revenue, Frequency and low Inactivity.
+
+
+Case 2:
+Here we will follow the following steps:
+
+Business Case
+
+Data Preparation
+
+Segmentation with K-means Clustering
+
+Hyperparameter Tuning
+
+Visualization and Interpretation of the Results
