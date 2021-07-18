@@ -1,6 +1,12 @@
 # Customer Segmentation
 Customer segmentation is the practice of dividing a company’s customers into groups that reflect similarity among customers in each group. The goal of segmenting customers is to decide how to relate to customers in each segment in order to maximize the value of each customer to the business.
 
+### Need:
+
+Targeted marketing activities to specific groups
+Launch of features aligning with the customer demand
+Development of the product roadmap
+
 ### RFM stands for Recency - Frequency - Monetary Value. 
 
 Theoretically we will have segments like below:
