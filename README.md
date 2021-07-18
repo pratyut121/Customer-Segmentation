@@ -3,11 +3,11 @@ Customer segmentation is the practice of dividing a company’s customers into g
 
 ### Need:
 
-Targeted marketing activities to specific groups
+-Targeted marketing activities to specific groups
 
-Launch of features aligning with the customer demand
+-Launch of features aligning with the customer demand
 
-Development of the product roadmap
+-Development of the product roadmap
 
 ### RFM stands for Recency - Frequency - Monetary Value. 
 
